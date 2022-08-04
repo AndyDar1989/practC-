@@ -1,6 +1,6 @@
-*.obj
+/obj
 *.json
 *.cache
 *.props
-*.bin
+/bin
 *.targets
